@@ -1,0 +1,41 @@
+payload:
+  ## Troubleshooting for some proxy service providers
+  
+  # GOV (Except US GOV in RegionRestricted group)
+  - '+.gov.uk'
+  - '+.gov.hk'
+  - '+.gov.mo'
+  - '+.gov.tw'
+  
+  # Email
+  - '+.gmail.com'
+
+  # Finance
+  # > Stripe: https://stripe.com/docs/ips
+  - '+.stripe.com'
+  - '+.stripe.network'
+  - '+.stripecdn.com'
+  - '+.api.emms.bbpos.com'
+  # > Wise: https://www.netify.ai/resources/applications/wise
+  - '+.wise.com'
+  - '+.transferwise.com'
+  # > Hong Kong Banks
+  - '+.hsbc.com.hk'
+  - '+.hsbc.com'
+  - '+.hangseng.com'
+  - '+.bochk.com'
+  - '+.sc.com'
+
+  # Slack
+  - '+.slackb.com'
+  - '+.slack.com'
+  - '+.slack-core.com'
+  - '+.slack-edge.com'
+  - '+.slack-files.com'
+  - '+.slack-imgs.com'
+  - '+.slack-msgs.com'
+  - '+.slack-redir.net'
+
+  # MISC
+  - '+.hkjunkcall.com'
+  - '+.hk01.com'

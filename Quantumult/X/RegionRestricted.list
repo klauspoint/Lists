@@ -1,0 +1,7 @@
+# Region-Restricted
+DOMAIN-SUFFIX,openai.com,PROXY
+DOMAIN-SUFFIX,bard.google.com,PROXY
+DOMAIN-SUFFIX,claude.ai,PROXY
+DOMAIN-SUFFIX,anthropic.com,PROXY
+DOMAIN-SUFFIX,byr.pt,PROXY
+DOMAIN-SUFFIX,gov,PROXY

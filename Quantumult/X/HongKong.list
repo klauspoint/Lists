@@ -1,0 +1,7 @@
+# Hong Kong Websites
+# > Hong Kong
+DOMAIN-SUFFIX,com.hk,PROXY
+DOMAIN-SUFFIX,edu.hk,PROXY
+DOMAIN-SUFFIX,gov.hk,PROXY
+DOMAIN-SUFFIX,hku.hk,PROXY
+GEOIP,HK,PROXY

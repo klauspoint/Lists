@@ -1,0 +1,10 @@
+## Hong Kong banks and fintech 
+# > HSBC and Payme
+DOMAIN-SUFFIX,hsbc.com.hk,HKFinance
+HOST-KEYWORD,payme,HKFinance
+
+# > Hang Seng Bank (disabled)
+DOMAIN-SUFFIX,hangseng.com,HKFinance
+
+# > BOCHK
+DOMAIN-SUFFIX,bochk.com,HKFinance

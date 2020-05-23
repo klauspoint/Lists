@@ -1,0 +1,41 @@
+# Censored by some proxy providers
+DOMAIN-SUFFIX,ltn.com.tw,Censored
+DOMAIN-SUFFIX,pincong.rocks,Censored
+DOMAIN-SUFFIX,rfa.org,Censored
+DOMAIN-KEYWORD,24fa.com,Censored
+DOMAIN-KEYWORD,aboluowang,Censored
+DOMAIN-KEYWORD,appledaily,Censored
+DOMAIN-KEYWORD,bannedboot,Censored
+DOMAIN-KEYWORD,beijingspring,Censored
+DOMAIN-KEYWORD,chengmingmag,Censored
+DOMAIN-KEYWORD,chinaaffairs,Censored
+DOMAIN-KEYWORD,chinadigitaltimes,Censored
+DOMAIN-KEYWORD,cn.nytimes,Censored
+DOMAIN-KEYWORD,creaders,Censored
+DOMAIN-KEYWORD,dafahao,Censored
+DOMAIN-KEYWORD,dongtaiwang,Censored
+DOMAIN-KEYWORD,efcc.org,Censored
+DOMAIN-KEYWORD,epochtimes,Censored
+DOMAIN-KEYWORD,epochweekly,Censored
+DOMAIN-KEYWORD,falunaz,Censored
+DOMAIN-KEYWORD,falundafa,Censored
+DOMAIN-KEYWORD,ifjc,Censored
+DOMAIN-KEYWORD,inmediahk,Censored
+DOMAIN-KEYWORD,li-hongzhi-master,Censored
+DOMAIN-KEYWORD,minghui,Censored
+DOMAIN-KEYWORD,mingjingnews,Censored
+DOMAIN-KEYWORD,ntdtv,Censored
+DOMAIN-KEYWORD,secretchina,Censored
+DOMAIN-KEYWORD,talk.news.pts.org,Censored
+DOMAIN-KEYWORD,tuidang,Censored
+DOMAIN-KEYWORD,voacantonese,Censored
+DOMAIN-KEYWORD,voachinese,Censored
+DOMAIN-KEYWORD,wujieliulan,Censored
+DOMAIN-KEYWORD,zhengwunet,Censored
+DOMAIN-KEYWORD,zhuichaguoji,Censored
+
+DOMAIN-SUFFIX,torproject.org,Censored
+
+# Hong Kong
+# Some provider(s) censored hk01 but I don't know why.
+DOMAIN-SUFFIX,hk01.com,Censored

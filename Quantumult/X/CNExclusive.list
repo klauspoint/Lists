@@ -1,0 +1,8 @@
+# Prevent some websites from redirecting to a China-exclusive version
+DOMAIN-SUFFIX,engadget.com,CNExclusive
+DOMAIN-SUFFIX,yahoo.com,CNExclusive
+DOMAIN-SUFFIX,bing.com,CNExclusive
+DOMAIN-SUFFIX,linkedin.com,CNExclusive
+DOMAIN-SUFFIX,teamviewer.com,CNExclusive
+DOMAIN-SUFFIX,duolingo.com,CNExclusive
+DOMAIN-SUFFIX,duolingo.cn,CNExclusive

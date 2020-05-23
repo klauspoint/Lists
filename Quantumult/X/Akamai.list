@@ -1,0 +1,10 @@
+# > Akamai shared domain
+# https://www.akamai.com/blog/developers/adding-akamai-shared-domains-to-the-public-suffix-list
+DOMAIN-SUFFIX,akadns.net,Akamai
+DOMAIN-SUFFIX,akamai.net,Akamai
+DOMAIN-SUFFIX,akamaiedge.net,Akamai
+DOMAIN-SUFFIX,akamaihd.net,Akamai
+DOMAIN-SUFFIX,akamaiorigin.net,Akamai
+DOMAIN-SUFFIX,akamaized.net,Akamai
+DOMAIN-SUFFIX,edgekey.net,Akamai
+DOMAIN-SUFFIX,edgesuite.net,Akamai

@@ -1,0 +1,33 @@
+## Troubleshooting for some proxy service providers
+
+DOMAIN-SUFFIX,support.mozilla.org,Troubleshooting
+DOMAIN-SUFFIX,codeload.github.com,Troubleshooting
+DOMAIN-SUFFIX,wordpress.com,Troubleshooting
+DOMAIN-SUFFIX,bitbucket.org,Troubleshooting
+
+# GOV
+DOMAIN-SUFFIX,gov,Troubleshooting
+DOMAIN-SUFFIX,gov.uk,Troubleshooting
+DOMAIN-SUFFIX,gov.hk,Troubleshooting
+
+# Amazon
+DOMAIN-SUFFIX,amazon.com,Troubleshooting
+DOMAIN-SUFFIX,amazonaws.com,Troubleshooting
+DOMAIN-SUFFIX,amazonwebservices.com,Troubleshooting
+DOMAIN-SUFFIX,cloudfront.net,Troubleshooting
+
+# Google
+DOMAIN-SUFFIX,gmail.com,Troubleshooting
+
+# Initium Media
+DOMAIN-SUFFIX,cloudfront.net,Troubleshooting
+
+# Slack
+DOMAIN-SUFFIX,slackb.com,Troubleshooting
+DOMAIN-SUFFIX,slack.com,Troubleshooting
+DOMAIN-SUFFIX,slack-core.com,Troubleshooting
+DOMAIN-SUFFIX,slack-edge.com,Troubleshooting
+DOMAIN-SUFFIX,slack-files.com,Troubleshooting
+DOMAIN-SUFFIX,slack-imgs.com,Troubleshooting
+DOMAIN-SUFFIX,slack-msgs.com,Troubleshooting
+DOMAIN-SUFFIX,slack-redir.net,Troubleshooting

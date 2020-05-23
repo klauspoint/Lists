@@ -1,0 +1,41 @@
+payload:
+  # Censored by some proxy providers
+  - DOMAIN-SUFFIX,ltn.com.tw
+  - DOMAIN-SUFFIX,pincong.rocks
+  - DOMAIN-SUFFIX,rfa.org
+  - DOMAIN-KEYWORD,24fa.com
+  - DOMAIN-KEYWORD,aboluowang
+  - DOMAIN-KEYWORD,appledaily
+  - DOMAIN-KEYWORD,bannedboot
+  - DOMAIN-KEYWORD,beijingspring
+  - DOMAIN-KEYWORD,chengmingmag
+  - DOMAIN-KEYWORD,chinaaffairs
+  - DOMAIN-KEYWORD,chinadigitaltimes
+  - DOMAIN-KEYWORD,cn.nytimes
+  - DOMAIN-KEYWORD,creaders
+  - DOMAIN-KEYWORD,dafahao
+  - DOMAIN-KEYWORD,dongtaiwang
+  - DOMAIN-KEYWORD,efcc.org
+  - DOMAIN-KEYWORD,epochtimes
+  - DOMAIN-KEYWORD,epochweekly
+  - DOMAIN-KEYWORD,falunaz
+  - DOMAIN-KEYWORD,falundafa
+  - DOMAIN-KEYWORD,ifjc
+  - DOMAIN-KEYWORD,inmediahk
+  - DOMAIN-KEYWORD,li-hongzhi-master
+  - DOMAIN-KEYWORD,minghui
+  - DOMAIN-KEYWORD,mingjingnews
+  - DOMAIN-KEYWORD,ntdtv
+  - DOMAIN-KEYWORD,secretchina
+  - DOMAIN-KEYWORD,talk.news.pts.org
+  - DOMAIN-KEYWORD,tuidang
+  - DOMAIN-KEYWORD,voacantonese
+  - DOMAIN-KEYWORD,voachinese
+  - DOMAIN-KEYWORD,wujieliulan
+  - DOMAIN-KEYWORD,zhengwunet
+  - DOMAIN-KEYWORD,zhuichaguoji
+  
+  - DOMAIN-SUFFIX,torproject.org
+
+  # > Blogs
+  - DOMAIN-SUFFIX,program-think.blogspot.com

@@ -1,0 +1,8 @@
+name: Himalaya Direct
+desc: Disable proxy for Himalaya/Ximalaya
+
+rules:
+  # (Podcast)
+  # > Himalaya
+  - PROCESS-NAME,com.ximalaya.ting.himalaya,DIRECT
+  - DOMAIN-SUFFIX,himalaya.com,DIRECT

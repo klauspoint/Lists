@@ -1,0 +1,12 @@
+payload:
+  # Prevent some websites from auto-redirecting to China-exclusive version
+  - '+.engadget.com'
+  - '+.yahoo.com'
+  - '+.bing.com'
+  - '+.linkedin.com'
+  - '+.teamviewer.com'
+  - '+.duolingo.com'
+  - '+.duolingo.cn'
+  - '+.leetcode.com'
+  - '+.leetcode-cn.com'
+  - '+.leetcode.cn'
