@@ -1,7 +1,8 @@
-DOMAIN-SUFFIX,bt.byr.cn
-DOMAIN-SUFFIX,ipv6.google.com
+IP6-CIDR,::/0,IPv6
+DOMAIN-SUFFIX,bt.byr.cn,IPv6
+DOMAIN-SUFFIX,ipv6.google.com,IPv6
 
 > IPv6 Query & Tests
-DOMAIN-SUFFIX,ipv6.ip.sb
-DOMAIN-SUFFIX,ipv6-test.com
-DOMAIN-SUFFIX,test-ipv6.com
+DOMAIN-SUFFIX,ipv6.ip.sb,IPv6
+DOMAIN-SUFFIX,ipv6-test.com,IPv6
+DOMAIN-SUFFIX,test-ipv6.com,IPv6
