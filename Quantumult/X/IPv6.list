@@ -1,1 +1,9 @@
 IP6-CIDR,::/0
+
+DOMAIN-SUFFIX,bt.byr.cn
+DOMAIN-SUFFIX,ipv6.google.com
+
+> IPv6 Query & Tests
+DOMAIN-SUFFIX,ipv6.ip.sb
+DOMAIN-SUFFIX,ipv6-test.com
+DOMAIN-SUFFIX,test-ipv6.com
