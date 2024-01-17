@@ -1,0 +1,40 @@
+## Troubleshooting for some proxy service providers
+
+# GOV (Except US GOV in RegionRestricted group)
+DOMAIN-SUFFIX,gov.uk,WeakCensored
+DOMAIN-SUFFIX,gov.hk,WeakCensored
+DOMAIN-SUFFIX,gov.mo,WeakCensored
+DOMAIN-SUFFIX,gov.tw,WeakCensored
+
+# Email
+DOMAIN-SUFFIX,gmail.com,WeakCensored
+
+# Finance
+# > Stripe: https://stripe.com/docs/ips
+DOMAIN-SUFFIX,stripe.com,WeakCensored
+DOMAIN-SUFFIX,stripe.network,WeakCensored
+DOMAIN-SUFFIX,stripecdn.com,WeakCensored
+DOMAIN-SUFFIX,api.emms.bbpos.com,WeakCensored
+# > Wise: https://www.netify.ai/resources/applications/wise
+DOMAIN-SUFFIX,wise.com,WeakCensored
+DOMAIN-SUFFIX,transferwise.com,WeakCensored
+# > Hong Kong Banks
+DOMAIN-SUFFIX,hsbc.com.hk,WeakCensored
+DOMAIN-SUFFIX,hsbc.com,WeakCensored
+DOMAIN-SUFFIX,hangseng.com,WeakCensored
+DOMAIN-SUFFIX,bochk.com,WeakCensored
+DOMAIN-SUFFIX,sc.com,WeakCensored
+
+# Slack
+DOMAIN-SUFFIX,slackb.com,WeakCensored
+DOMAIN-SUFFIX,slack.com,WeakCensored
+DOMAIN-SUFFIX,slack-core.com,WeakCensored
+DOMAIN-SUFFIX,slack-edge.com,WeakCensored
+DOMAIN-SUFFIX,slack-files.com,WeakCensored
+DOMAIN-SUFFIX,slack-imgs.com,WeakCensored
+DOMAIN-SUFFIX,slack-msgs.com,WeakCensored
+DOMAIN-SUFFIX,slack-redir.net,WeakCensored
+
+# MISC
+DOMAIN-SUFFIX,hkjunkcall.com,WeakCensored
+DOMAIN-SUFFIX,hk01.com,WeakCensored
