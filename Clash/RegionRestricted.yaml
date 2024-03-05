@@ -12,3 +12,5 @@ payload:
 
   # > US GOV
   - '+.gov'
+  - '+.gov.org'
+  - '+.sfgov.org'
