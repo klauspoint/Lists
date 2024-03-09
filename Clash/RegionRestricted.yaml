@@ -4,6 +4,7 @@ payload:
   - '+.oaistatic.com'
   - '+.oaiusercontent.com'
   - '+.bard.google.com'
+  - '+.gemini.google.com'
   - '+.claude.ai'
   - '+.anthropic.com'
   
