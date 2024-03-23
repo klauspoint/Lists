@@ -2,7 +2,9 @@
 DOMAIN-SUFFIX,engadget.com,CNExclusive
 DOMAIN-SUFFIX,yahoo.com,CNExclusive
 DOMAIN-SUFFIX,bing.com,CNExclusive
+DOMAIN-SUFFIX,location.microsoft.com,CNExclusive
 DOMAIN-SUFFIX,linkedin.com,CNExclusive
+DOMAIN-SUFFIX,linkedin.cn,CNExclusive
 DOMAIN-SUFFIX,teamviewer.com,CNExclusive
 DOMAIN-SUFFIX,duolingo.com,CNExclusive
 DOMAIN-SUFFIX,duolingo.cn,CNExclusive
