@@ -1,0 +1,15 @@
+# https://github.com/Elysian-Realme/FuGfConfig/blob/main/ConfigFile/Surge/Apple/AppleAPIRules.conf
+DOMAIN,guzzoni.apple.com,AppStoreAPI
+DOMAIN,apps.apple.com,AppStoreAPI
+DOMAIN,xp.apple.com,AppStoreAPI
+DOMAIN,bag.itunes.apple.com,AppStoreAPI
+DOMAIN,api-edge.apps.apple.com,AppStoreAPI
+DOMAIN,api.apps.apple.com,AppStoreAPI
+DOMAIN,play.itunes.apple.com,AppStoreAPI
+DOMAIN,se.itunes.apple.com,AppStoreAPI
+DOMAIN,se-edge.itunes.apple.com,AppStoreAPI
+DOMAIN,su.itunes.apple.com,AppStoreAPI
+DOMAIN,upp.itunes.apple.com,AppStoreAPI
+DOMAIN,beta.music.apple.com,AppStoreAPI
+DOMAIN-KEYWORD,buy.itunes.apple.com,AppStoreAPI
+; DOMAIN-SUFFIX,itunes-apple.com.akadns.net,AppStoreAPI

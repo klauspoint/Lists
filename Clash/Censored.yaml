@@ -36,6 +36,7 @@ payload:
   - DOMAIN-KEYWORD,zhuichaguoji
   
   - DOMAIN-SUFFIX,torproject.org
+  - DOMAIN-SUFFIX,riseup.net
 
   # > Blogs
   - DOMAIN-SUFFIX,program-think.blogspot.com

@@ -35,6 +35,7 @@ DOMAIN-KEYWORD,zhengwunet,Censored
 DOMAIN-KEYWORD,zhuichaguoji,Censored
 
 DOMAIN-SUFFIX,torproject.org,Censored
+DOMAIN-SUFFIX,riseup.net,Censored
 
 # Hong Kong
 # Some provider(s) censored hk01 but I don't know why.
