@@ -25,6 +25,11 @@ payload:
   - '+.hangseng.com'
   - '+.bochk.com'
   - '+.sc.com'
+  # > Interactive Brokers
+  - '+.interactivebrokers.com'
+  - '+.interactivebrokers.com.hk'
+  - '+.ibkr.com'
+  - '+.ibllc.com'
 
   # Slack
   - '+.slackb.com'

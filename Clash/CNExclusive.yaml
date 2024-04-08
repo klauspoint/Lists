@@ -3,10 +3,15 @@ payload:
   - '+.engadget.com'
   - '+.yahoo.com'
   - '+.bing.com'
+  - '+.location.microsoft.com'
   - '+.linkedin.com'
+  - '+.linkedin.cn'
   - '+.teamviewer.com'
   - '+.duolingo.com'
   - '+.duolingo.cn'
   - '+.leetcode.com'
   - '+.leetcode-cn.com'
   - '+.leetcode.cn'
+
+  # DNS Leak Sentry
+  - '+.test.dnsleaktest.com'

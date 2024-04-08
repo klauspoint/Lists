@@ -8,7 +8,9 @@ DOMAIN-SUFFIX,linkedin.cn,CNExclusive
 DOMAIN-SUFFIX,teamviewer.com,CNExclusive
 DOMAIN-SUFFIX,duolingo.com,CNExclusive
 DOMAIN-SUFFIX,duolingo.cn,CNExclusive
-# leetcode
 DOMAIN-SUFFIX,leetcode.com,CNExclusive
 DOMAIN-SUFFIX,leetcode-cn.com,CNExclusive
 DOMAIN-SUFFIX,leetcode.cn,CNExclusive
+
+# > DNS Leak Sentry
+DOMAIN-SUFFIX,test.dnsleaktest.com,CNExclusive

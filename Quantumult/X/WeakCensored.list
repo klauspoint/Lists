@@ -1,6 +1,6 @@
 ## Troubleshooting for some proxy service providers
 
-# GOV (Except US GOV in RegionRestricted group)
+# > GOV (Except US GOV in RegionRestricted group)
 DOMAIN-SUFFIX,gov.uk,WeakCensored
 DOMAIN-SUFFIX,gov.hk,WeakCensored
 DOMAIN-SUFFIX,gov.mo,WeakCensored
@@ -9,21 +9,26 @@ DOMAIN-SUFFIX,gov.tw,WeakCensored
 # Email
 DOMAIN-SUFFIX,gmail.com,WeakCensored
 
-# Finance
-# > Stripe: https://stripe.com/docs/ips
+# > Finance
+# Stripe: https://stripe.com/docs/ips
 DOMAIN-SUFFIX,stripe.com,WeakCensored
 DOMAIN-SUFFIX,stripe.network,WeakCensored
 DOMAIN-SUFFIX,stripecdn.com,WeakCensored
 DOMAIN-SUFFIX,api.emms.bbpos.com,WeakCensored
-# > Wise: https://www.netify.ai/resources/applications/wise
+# Wise: https://www.netify.ai/resources/applications/wise
 DOMAIN-SUFFIX,wise.com,WeakCensored
 DOMAIN-SUFFIX,transferwise.com,WeakCensored
-# > Hong Kong Banks
+# Hong Kong Banks
 DOMAIN-SUFFIX,hsbc.com.hk,WeakCensored
 DOMAIN-SUFFIX,hsbc.com,WeakCensored
 DOMAIN-SUFFIX,hangseng.com,WeakCensored
 DOMAIN-SUFFIX,bochk.com,WeakCensored
 DOMAIN-SUFFIX,sc.com,WeakCensored
+# Interactive Brokers
+DOMAIN-SUFFIX,interactivebrokers.com,WeakCensored
+DOMAIN-SUFFIX,interactivebrokers.com.hk,WeakCensored
+DOMAIN-SUFFIX,ibkr.com,WeakCensored
+DOMAIN-SUFFIX,ibllc.com,WeakCensored
 
 # Slack
 DOMAIN-SUFFIX,slackb.com,WeakCensored
