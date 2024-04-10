@@ -1,0 +1,47 @@
+# Ref: https://cdn.jsdelivr.net/gh/Elysian-Realme/FuGfConfig@main/ConfigFile/Surge/Apple/AppleCDNRules.conf
+# Ref: https://cdn.jsdelivr.net/gh/Elysian-Realme/FuGfConfig@main/ConfigFile/Surge/Apple/AppleUpdateRules.conf
+payload:
+  ## Apple Global CDN
+  ## iOS App Store
+  - 'iosapps.itunes.apple.com'
+  # USER-AGENT,com.apple.appstored*
+  ## Mac App Store
+  - 'osxapps.itunes.apple.com'
+  - 'oscdn.apple.com'
+  # PROCESS-NAME,storedownloadd
+  ## Update
+  - 'supportdownload.apple.com'
+  ## Update
+  - 'appldnld.apple.com'
+  ## Update
+  - 'swcdn.apple.com'
+  - 'apptrailers.itunes.apple.com'
+  - 'updates-http.cdn-apple.com'
+  - 'updates.cdn-apple.com'
+  ## App Store & iTunes Images
+  - '+.mzstatic.com'
+  ## Apple Music Streaming
+  - 'aod.itunes.apple.com'
+  - 'mvod.itunes.apple.com'
+  - 'streamingaudio.itunes.apple.com'
+  ## Other
+  - 'download.developer.apple.com'
+  - 'downloaddispatch.itunes.apple.com'
+  - 'app-site-association.cdn-apple.com'
+  - 'ns.itunes.apple.com'
+  - 'xp.apple.com'
+  - '+.appldnld-lb.apple.com.akadns.net'
+  - '+.appldnld.apple.com'
+  - '+.appldnld.apple.com.akadns.net'
+  - '+.appldnld.g.aaplimg.com'
+  - '+.gdmf.apple.com'
+  - '+.gdmf.apple.com.akadns.net'
+  - '+.mesu-cdn.apple.com.akadns.net'
+  - '+.mesu-cdn.origin-apple.com.akadns.net'
+  - '+.mesu.apple.com'
+  - '+.mesu.g.aaplimg.com'
+  - '+.ocsp-lb.apple.com.akadns.net'
+  - '+.ocsp.apple.com'
+  - '+.ocsp.g.aaplimg.com'
+  - '+.gg.apple.com'
+  - '+.swscan.apple.com'
