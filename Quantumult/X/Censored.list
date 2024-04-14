@@ -36,6 +36,7 @@ DOMAIN-SUFFIX,secretchina.com,Censored
 DOMAIN-SUFFIX,tuidang.net,Censored
 DOMAIN-SUFFIX,tuidang.org,Censored
 DOMAIN-SUFFIX,tuidang.se,Censored
+DOMAIN-SUFFIX,weihuo.org,Censored
 DOMAIN-SUFFIX,wujieliulan.com,Censored
 DOMAIN-SUFFIX,zhuichaguoji.org,Censored
 
@@ -43,3 +44,7 @@ DOMAIN-SUFFIX,torproject.org,Censored
 DOMAIN-SUFFIX,riseup.net,Censored
 
 DOMAIN-SUFFIX,program-think.blogspot.com,Censored
+
+# Misc
+DOMAIN-SUFFIX,gov,Censored
+DOMAIN-SUFFIX,sfgov.org,Censored

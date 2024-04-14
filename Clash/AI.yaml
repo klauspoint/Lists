@@ -1,0 +1,22 @@
+payload:
+  # OpenAI
+  - '+.auth0.com'
+  - '+.openai.com'
+  - '+.oaistatic.com'
+  - '+.oaiusercontent.com'
+  - '+.poe.com'
+  # Google Gemini
+  - 'ai.google.dev'
+  - '+.bard.google.com'
+  - '+.gemini.google.com'
+  - '+.bard.google.com'
+  - '+.deepmind.com'
+  - '+.deepmind.google'
+  - '+.gemini.google.com'
+  - '+.generativeai.google'
+  # Claude
+  - 'cdn.usefathom.com'
+  - '+.claude.ai'
+  - '+.anthropic.com'
+  # Copilot
+  - '+.copilot.microsoft.com'

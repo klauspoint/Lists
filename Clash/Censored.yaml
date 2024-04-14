@@ -31,6 +31,7 @@ payload:
   - DOMAIN-KEYWORD,tuidang
   - DOMAIN-KEYWORD,voacantonese
   - DOMAIN-KEYWORD,voachinese
+  - DOMAIN-KEYWORD,weihuo
   - DOMAIN-KEYWORD,wujieliulan
   - DOMAIN-KEYWORD,zhengwunet
   - DOMAIN-KEYWORD,zhuichaguoji
@@ -40,3 +41,8 @@ payload:
 
   # > Blogs
   - DOMAIN-SUFFIX,program-think.blogspot.com
+
+  # > US GOV
+  - DOMAIN-SUFFIX,gov
+  - DOMAIN-SUFFIX,gov.org
+  - DOMAIN-SUFFIX,sfgov.org
