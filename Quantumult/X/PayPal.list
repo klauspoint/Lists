@@ -1,0 +1,6 @@
+# > PayPal
+HOST-SUFFIX,paypal.com,PayPal
+HOST-SUFFIX,paypalobjects.com,PayPal
+HOST-SUFFIX,paypal.me,PayPal
+
+USER-AGENT,PayPal*,PayPal

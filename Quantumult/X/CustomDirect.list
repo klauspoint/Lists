@@ -1,0 +1,56 @@
+# ==========================================
+# Ruleset - Direct
+# The domains listed below could be directly accessible from Mainland China,
+# but may or may not resolve to Chinese IP addresses.
+# Use this rule-set to enforce *direct* connection to these domains.
+# For *real* Chinese websites, i.e., whose resolved IP addresses are located in China, use the GEOIP:CN rule.
+# ==========================================
+
+# > ccTLD
+HOST-SUFFIX,cn,direct
+
+# > Software Download / Update
+# HOST,download.jetbrains.com,direct
+HOST,download-cdn.jetbrains.com,direct
+
+# > Microsoft / Azure / Office 365 / Telemetry
+HOST,officecdn-microsoft-com.akamaized.net,direct
+HOST-SUFFIX,aka.ms,direct
+HOST-SUFFIX,appcenter.ms,direct
+HOST-SUFFIX,azure.com,direct
+HOST-SUFFIX,azure.net,direct
+# HOST-SUFFIX,azureedge.net,direct
+HOST-SUFFIX,azurerms.com,direct
+# HOST-SUFFIX,microsoft.com,direct
+HOST-SUFFIX,msecnd.net,direct
+HOST-SUFFIX,msedge.net,direct
+HOST-SUFFIX,msft.net,direct
+HOST-SUFFIX,msftauth.net,direct
+HOST-SUFFIX,msftauthimages.net,direct
+HOST-SUFFIX,msftidentity.com,direct
+HOST-SUFFIX,msidentity.com,direct
+HOST-SUFFIX,office.com,direct
+HOST-SUFFIX,office.net,direct
+HOST-SUFFIX,office365.com,direct
+HOST-SUFFIX,officeppe.net,direct
+HOST-SUFFIX,trafficmanager.net,direct
+HOST-SUFFIX,visualstudio.com,direct
+HOST-SUFFIX,windows-ppe.net,direct
+HOST-SUFFIX,windows.com,direct
+HOST-SUFFIX,windows.net,direct
+HOST-SUFFIX,windowsupdate.com,direct
+# Windows Update
+# https://learn.microsoft.com/en-us/troubleshoot/windows-client/deployment/windows-update-issues-troubleshooting
+HOST-SUFFIX,delivery.mp.microsoft.com,direct
+HOST-SUFFIX,dsp.mp.microsoft.com,direct
+HOST-SUFFIX,update.microsoft.com,direct
+# HOST-SUFFIX,windowsupdate.com,direct
+HOST-SUFFIX,windowsupdate.microsoft.com,direct
+HOST,download.microsoft.com,direct
+HOST,emdl.ws.microsoft.com,direct
+HOST,ntservicepack.microsoft.com,direct
+# HOST,wustat.windows.com,direct
+
+# > IPv6 Test
+HOST-SUFFIX,test-ipv6.com,direct
+HOST-SUFFIX,ipv6-test.com,direct
