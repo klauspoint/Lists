@@ -14,6 +14,8 @@ DOMAIN-SUFFIX,deepmind.com,AI
 DOMAIN-SUFFIX,deepmind.google,AI
 DOMAIN-SUFFIX,gemini.google.com,AI
 DOMAIN-SUFFIX,generativeai.google,AI
+DOMAIN-SUFFIX,notebooklm.google.com,AI
+DOMAIN-SUFFIX,notebooklm.google,AI
 # Claude
 DOMAIN,cdn.usefathom.com,AI
 DOMAIN-SUFFIX,claude.ai,AI
