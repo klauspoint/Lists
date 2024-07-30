@@ -20,7 +20,7 @@ payload:
   - '+.appcenter.ms'
   - '+.azure.com'
   - '+.azure.net'
-  - '+.azureedge.net'
+  # - '+.azureedge.net'
   - '+.azurerms.com'
   # - '+.microsoft.com'
   - '+.msecnd.net'
