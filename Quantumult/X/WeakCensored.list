@@ -1,4 +1,4 @@
-## Troubleshooting for some proxy service providers
+## Blocked by some proxy providers
 
 # > GOV (Except US GOV in RegionRestricted group)
 DOMAIN-SUFFIX,gov.uk,WeakCensored
@@ -43,3 +43,4 @@ DOMAIN-SUFFIX,slack-redir.net,WeakCensored
 # MISC
 DOMAIN-SUFFIX,hkjunkcall.com,WeakCensored
 DOMAIN-SUFFIX,hk01.com,WeakCensored
+DOMAIN-SUFFIX,scamalytics.com,WeakCensored

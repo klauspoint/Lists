@@ -1,5 +1,5 @@
 payload:
-  ## Troubleshooting for some proxy service providers
+  ## Blocked by some proxy providers
   
   # GOV (Except US GOV in RegionRestricted group)
   - '+.gov.uk'
@@ -44,3 +44,4 @@ payload:
   # MISC
   - '+.hkjunkcall.com'
   - '+.hk01.com'
+  - '+.scamalytics.com'
