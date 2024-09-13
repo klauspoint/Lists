@@ -1,1 +1,2 @@
-'+.azureedge.net' is commented out in CustomDirect.list but active in CustomDirect.yaml.
+'+.azureedge.net' is commented out in Quantumult/X/CustomDirect.list but active
+in Clash/CustomDirect.yaml.

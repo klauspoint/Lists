@@ -39,6 +39,8 @@ HOST-SUFFIX,windows-ppe.net,direct
 HOST-SUFFIX,windows.com,direct
 HOST-SUFFIX,windows.net,direct
 HOST-SUFFIX,windowsupdate.com,direct
+# Windows Push Notification Services
+HOST-SUFFIX,wns.windows.com,direct
 # Windows Update
 # https://learn.microsoft.com/en-us/troubleshoot/windows-client/deployment/windows-update-issues-troubleshooting
 HOST-SUFFIX,delivery.mp.microsoft.com,direct
@@ -50,6 +52,13 @@ HOST,download.microsoft.com,direct
 HOST,emdl.ws.microsoft.com,direct
 HOST,ntservicepack.microsoft.com,direct
 # HOST,wustat.windows.com,direct
+
+# OneDrive (/for Business) / SharePoint
+HOST-SUFFIX,sharepoint.com,direct
+HOST-SUFFIX,sharepointonline.com,direct
+HOST-SUFFIX,storage.live.com,direct
+HOST-SUFFIX,svc.ms,direct
+
 
 # > IPv6 Test
 HOST-SUFFIX,test-ipv6.com,direct

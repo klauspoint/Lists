@@ -40,6 +40,8 @@ payload:
   - '+.windows.com'
   - '+.windows.net'
   - '+.windowsupdate.com'
+  # Windows Push Notification Services
+  - '+.wns.windows.com'
   # Windows Update
   # https://learn.microsoft.com/en-us/troubleshoot/windows-client/deployment/windows-update-issues-troubleshooting
   - '+.delivery.mp.microsoft.com'
@@ -51,6 +53,12 @@ payload:
   - 'emdl.ws.microsoft.com'
   - 'ntservicepack.microsoft.com'
   # - 'wustat.windows.com'
+
+  # OneDrive (Personal / for Business) / SharePoint
+  - '+.sharepoint.com'
+  - '+.sharepointonline.com'
+  - '+.storage.live.com'
+  - '+.svc.ms'
 
   # > IPv6 Test
   - '+.test-ipv6.com'
