@@ -13,5 +13,8 @@ payload:
   - '+.leetcode-cn.com'
   - '+.leetcode.cn'
 
+  # Travel
+  - '+.klook.com'
+
   # DNS Leak Sentry
   - '+.test.dnsleaktest.com'
