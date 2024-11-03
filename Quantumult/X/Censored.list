@@ -47,5 +47,5 @@ DOMAIN-SUFFIX,riseup.net,Censored
 DOMAIN-SUFFIX,program-think.blogspot.com,Censored
 
 # Misc
-DOMAIN-SUFFIX,gov,Censored
-DOMAIN-SUFFIX,sfgov.org,Censored
+# DOMAIN-SUFFIX,gov,Censored
+# DOMAIN-SUFFIX,sfgov.org,Censored

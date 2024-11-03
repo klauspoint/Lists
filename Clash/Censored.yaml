@@ -44,6 +44,6 @@ payload:
   - DOMAIN-SUFFIX,program-think.blogspot.com
 
   # > US GOV
-  - DOMAIN-SUFFIX,gov
-  - DOMAIN-SUFFIX,gov.org
-  - DOMAIN-SUFFIX,sfgov.org
+  # - DOMAIN-SUFFIX,gov
+  # - DOMAIN-SUFFIX,gov.org
+  # - DOMAIN-SUFFIX,sfgov.org
