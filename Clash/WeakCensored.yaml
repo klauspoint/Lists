@@ -1,11 +1,12 @@
 payload:
   ## Blocked by some proxy providers
   
-  # GOV (Except US GOV in RegionRestricted group)
-  - '+.gov.uk'
+  # GOV (not a complete list)
   - '+.gov.hk'
   - '+.gov.mo'
   - '+.gov.tw'
+  - '+.gov'
+  - '+.gov.uk'
   
   # Email
   - '+.gmail.com'

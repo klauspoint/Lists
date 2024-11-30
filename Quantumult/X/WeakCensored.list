@@ -1,10 +1,11 @@
 ## Blocked by some proxy providers
 
-# > GOV (Except US GOV in RegionRestricted group)
-DOMAIN-SUFFIX,gov.uk,WeakCensored
+# > GOV (not a complete list)
 DOMAIN-SUFFIX,gov.hk,WeakCensored
 DOMAIN-SUFFIX,gov.mo,WeakCensored
 DOMAIN-SUFFIX,gov.tw,WeakCensored
+DOMAIN-SUFFIX,gov,WeakCensored
+DOMAIN-SUFFIX,gov.uk,WeakCensored
 
 # Email
 DOMAIN-SUFFIX,gmail.com,WeakCensored
