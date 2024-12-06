@@ -1,4 +1,5 @@
-## Blocked by some proxy providers
+## Blocked by some proxy providers (but DIRECT access from Mainland China
+## MIGHT work)
 
 # > GOV (not a complete list)
 DOMAIN-SUFFIX,gov.hk,WeakCensored
@@ -6,9 +7,6 @@ DOMAIN-SUFFIX,gov.mo,WeakCensored
 DOMAIN-SUFFIX,gov.tw,WeakCensored
 DOMAIN-SUFFIX,gov,WeakCensored
 DOMAIN-SUFFIX,gov.uk,WeakCensored
-
-# Email
-DOMAIN-SUFFIX,gmail.com,WeakCensored
 
 # > Finance
 # Stripe: https://stripe.com/docs/ips
@@ -31,17 +29,19 @@ DOMAIN-SUFFIX,interactivebrokers.com.hk,WeakCensored
 DOMAIN-SUFFIX,ibkr.com,WeakCensored
 DOMAIN-SUFFIX,ibllc.com,WeakCensored
 
-# Slack
-DOMAIN-SUFFIX,slackb.com,WeakCensored
-DOMAIN-SUFFIX,slack.com,WeakCensored
-DOMAIN-SUFFIX,slack-core.com,WeakCensored
-DOMAIN-SUFFIX,slack-edge.com,WeakCensored
-DOMAIN-SUFFIX,slack-files.com,WeakCensored
-DOMAIN-SUFFIX,slack-imgs.com,WeakCensored
-DOMAIN-SUFFIX,slack-msgs.com,WeakCensored
-DOMAIN-SUFFIX,slack-redir.net,WeakCensored
-
 # MISC
 DOMAIN-SUFFIX,hkjunkcall.com,WeakCensored
-DOMAIN-SUFFIX,hk01.com,WeakCensored
 DOMAIN-SUFFIX,scamalytics.com,WeakCensored
+
+# Email
+# DOMAIN-SUFFIX,gmail.com,WeakCensored
+
+# Slack
+# DOMAIN-SUFFIX,slackb.com,WeakCensored
+# DOMAIN-SUFFIX,slack.com,WeakCensored
+# DOMAIN-SUFFIX,slack-core.com,WeakCensored
+# DOMAIN-SUFFIX,slack-edge.com,WeakCensored
+# DOMAIN-SUFFIX,slack-files.com,WeakCensored
+# DOMAIN-SUFFIX,slack-imgs.com,WeakCensored
+# DOMAIN-SUFFIX,slack-msgs.com,WeakCensored
+# DOMAIN-SUFFIX,slack-redir.net,WeakCensored

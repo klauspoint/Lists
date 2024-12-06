@@ -1,5 +1,6 @@
 payload:
-  ## Blocked by some proxy providers
+  ## Blocked by some proxy providers (but DIRECT access from Mainland China
+  ## MIGHT work)
   
   # GOV (not a complete list)
   - '+.gov.hk'
@@ -7,9 +8,6 @@ payload:
   - '+.gov.tw'
   - '+.gov'
   - '+.gov.uk'
-  
-  # Email
-  - '+.gmail.com'
 
   # Finance
   # > Stripe: https://stripe.com/docs/ips
@@ -32,17 +30,19 @@ payload:
   - '+.ibkr.com'
   - '+.ibllc.com'
 
-  # Slack
-  - '+.slackb.com'
-  - '+.slack.com'
-  - '+.slack-core.com'
-  - '+.slack-edge.com'
-  - '+.slack-files.com'
-  - '+.slack-imgs.com'
-  - '+.slack-msgs.com'
-  - '+.slack-redir.net'
-
   # MISC
   - '+.hkjunkcall.com'
-  - '+.hk01.com'
   - '+.scamalytics.com'
+
+  # Email
+  # - '+.gmail.com'
+
+  # Slack
+  # - '+.slackb.com'
+  # - '+.slack.com'
+  # - '+.slack-core.com'
+  # - '+.slack-edge.com'
+  # - '+.slack-files.com'
+  # - '+.slack-imgs.com'
+  # - '+.slack-msgs.com'
+  # - '+.slack-redir.net'
