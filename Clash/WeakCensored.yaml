@@ -35,7 +35,7 @@ payload:
   - '+.scamalytics.com'
 
   # Email
-  # - '+.gmail.com'
+  - '+.gmail.com'
 
   # Slack
   # - '+.slackb.com'

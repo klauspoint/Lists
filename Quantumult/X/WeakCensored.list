@@ -34,7 +34,7 @@ DOMAIN-SUFFIX,hkjunkcall.com,WeakCensored
 DOMAIN-SUFFIX,scamalytics.com,WeakCensored
 
 # Email
-# DOMAIN-SUFFIX,gmail.com,WeakCensored
+DOMAIN-SUFFIX,gmail.com,WeakCensored
 
 # Slack
 # DOMAIN-SUFFIX,slackb.com,WeakCensored
