@@ -11,6 +11,7 @@ DOMAIN-SUFFIX,duolingo.cn,CNExclusive
 DOMAIN-SUFFIX,leetcode.com,CNExclusive
 DOMAIN-SUFFIX,leetcode-cn.com,CNExclusive
 DOMAIN-SUFFIX,leetcode.cn,CNExclusive
+DOMAIN-SUFFIX,deepseek.com,CNExclusive
 
 # Travel
 DOMAIN-SUFFIX,klook.com,CNExclusive

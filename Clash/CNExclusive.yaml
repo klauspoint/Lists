@@ -12,6 +12,7 @@ payload:
   - '+.leetcode.com'
   - '+.leetcode-cn.com'
   - '+.leetcode.cn'
+  - '+.deepseek.com'
 
   # Travel
   - '+.klook.com'
