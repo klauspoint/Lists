@@ -1,9 +1,9 @@
 # ==========================================
-# Ruleset - Direct
-# The domains listed below could be directly accessible from Mainland China,
-# but may or may not resolve to Chinese IP addresses.
-# Use this rule-set to enforce *direct* connection to these domains.
-# For *real* Chinese websites, i.e., whose resolved IP addresses are located in China, use the GEOIP:CN rule.
+# Ruleset - Direct 
+# The domains listed below could be directly accessible from Mainland China, 
+# but may or may not resolve to Chinese IP addresses so don't match the 
+# GEOIP:CN rule. Use this rule-set to enforce *direct* connection to these 
+# domains.
 # ==========================================
 
 # > ccTLD
