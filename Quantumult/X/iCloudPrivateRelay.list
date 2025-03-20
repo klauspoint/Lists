@@ -1,0 +1,6 @@
+DOMAIN-SUFFIX,mask-api.fe.apple-dns.net,iCloudPrivateRelay
+DOMAIN-SUFFIX,mask-api.icloud.com,iCloudPrivateRelay
+DOMAIN-SUFFIX,mask-t.apple-dns.net,iCloudPrivateRelay
+DOMAIN-SUFFIX,mask.apple-dns.net,iCloudPrivateRelay
+DOMAIN-SUFFIX,mask-h2.icloud.com,iCloudPrivateRelay
+DOMAIN-SUFFIX,mask.icloud.com,iCloudPrivateRelay
