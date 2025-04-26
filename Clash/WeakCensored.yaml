@@ -33,6 +33,7 @@ payload:
   # MISC
   - '+.hkjunkcall.com'
   - '+.scamalytics.com'
+  - '+.imgur.com'
 
   # Email
   - '+.gmail.com'
